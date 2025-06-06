@@ -30,7 +30,7 @@ It was bootstrapped using `create-next-app` with the App Router and Tailwind CSS
 ![Calories](public/screenshots/calories.png)
 
 ## Deployment
-This app is deployed to Vercel: meal-calorie-frontend-asif-parvez-oioa-7stnkt5ai.vercel.app
+This app is deployed to Vercel: [https://meal-calorie-frontend-asif-parvez-b35x9dmma-proasifs-projects.vercel.app/](https://meal-calorie-frontend-asif-parvez.vercel.app/)
 
 ## Testing
 - `npm test` runs unit tests with Vitest.
