@@ -8,7 +8,10 @@ It was bootstrapped using `create-next-app` with the App Router and Tailwind CSS
 1. Install dependencies using **npm** (recommended).
    ```npm install```
 2. Copy `.env.example` to `.env` and update values if needed. The sample file
-   points to the built-in API routes under `/api`.
+   <!-- points to the built-in API routes under `/api`. -->
+   uses a relative API base URL of `/api` so requests go to the built-in
+   Next.js routes. If you deploy a separate backend, change
+   `NEXT_PUBLIC_API_BASE_URL` to that server's full URL.
 3. Run the development server:
    ```npm run dev```
    The app should be available at [http://localhost:3000](http://localhost:3000).
