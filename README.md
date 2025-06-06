@@ -24,13 +24,13 @@ It was bootstrapped using `create-next-app` with the App Router and Tailwind CSS
   The API base URL can be configured via environment variables.
 
 ## Screenshots
+![Register](public/screenshots/register.png)
 ![Login](public/screenshots/login.png)
 ![Dashboard](public/screenshots/dashboard.png)
 ![Calories](public/screenshots/calories.png)
 
 ## Deployment
-This app can be deployed to Vercel or any Node hosting provider.
-Deployed example: [https://example.vercel.app](https://example.vercel.app)
+This app is deployed to Vercel: meal-calorie-frontend-asif-parvez-oioa-7stnkt5ai.vercel.app
 
 ## Testing
 - `npm test` runs unit tests with Vitest.
